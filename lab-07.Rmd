@@ -1,7 +1,7 @@
 ---
 title: "Lab 07 - Conveying the right message through visualisation"
-author: "Insert your name here"
-date: "Insert date here"
+author: "Noah Booker"
+date: "4/2/25"
 output: github_document
 ---
 

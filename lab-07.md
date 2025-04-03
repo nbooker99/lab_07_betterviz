@@ -1,7 +1,7 @@
 Lab 07 - Conveying the right message through visualisation
 ================
-Insert your name here
-Insert date here
+Noah Booker
+4/2/25
 
 ### Load packages and data
 
